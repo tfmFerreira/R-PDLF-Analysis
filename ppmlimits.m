@@ -1,3 +1,4 @@
+%Example file inside folder 20 provided as link in the README file of this repository 
  clear all
  Label_Dev_1=[      0    0     0     0     0     1     0.2       0       0.2         0        0        -0.7       0     -0.5        0         0            -1]
  Assign_label= { 'S_1' 'S_2' 'S_3' 'S_4' 'S_5' 'S_6' 'S_{15}' 'S_{16}' 'S_{17}'  'S_{18}'    'G_1'    'G_2'  'G_3'    'G_4'     'G_5'   'G_6'     'C_{18}' };
